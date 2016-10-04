@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Projects/Haar/src/Final/.idea/Final.iml" filepath="D:/Projects/Haar/src/Final/.idea/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Images to CBR converter in Python/.idea/Images to CBR converter in Python.iml" filepath="$PROJECT_DIR$/../../Images to CBR converter in Python/.idea/Images to CBR converter in Python.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/flask-master/examples/.idea/examples.iml" filepath="$USER_HOME$/Desktop/flask-master/examples/.idea/examples.iml" />
+      <module fileurl="file://D:/Projects/microCredit/.idea/microCredit.iml" filepath="D:/Projects/microCredit/.idea/microCredit.iml" />
+      <module fileurl="file://D:/Projects/myCustoms/.idea/myCustoms.iml" filepath="D:/Projects/myCustoms/.idea/myCustoms.iml" />
+      <module fileurl="file://D:/Projects/pahoExtended/.idea/pahoExtended.iml" filepath="D:/Projects/pahoExtended/.idea/pahoExtended.iml" />
+      <module fileurl="file://D:/Projects/pygame/.idea/pygame.iml" filepath="D:/Projects/pygame/.idea/pygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/server.iml" filepath="$PROJECT_DIR$/.idea/server.iml" />
+      <module fileurl="file://D:/Projects/Haar/src/ui/.idea/ui.iml" filepath="D:/Projects/Haar/src/ui/.idea/ui.iml" />
+      <module fileurl="file://D:/Projects/webServer/.idea/webServer.iml" filepath="D:/Projects/webServer/.idea/webServer.iml" />
+    </modules>
+  </component>
+</project>
